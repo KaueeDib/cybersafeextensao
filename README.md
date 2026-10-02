@@ -39,21 +39,6 @@ A V1 foi construída sobre o **MVP real da Semana 4**, preservando a abordagem e
 - Branco: `#FFFFFF`
 - Cinza: `#667085`
 
-### Como executar no Windows
-
-#### Opção recomendada
-
-1. Extraia a pasta.
-2. Abra a pasta `CyberSafe_Modulo_Integrado_V1`.
-3. Execute `start-localhost.bat`.
-4. Abra `http://127.0.0.1:8000/` caso o navegador não seja aberto automaticamente.
-5. Mantenha a janela do servidor aberta durante a utilização.
-6. Pressione `Ctrl+C` para encerrar o servidor.
-
-#### Sem servidor
-
-O `index.html` também pode ser aberto diretamente no navegador. O servidor local é recomendado para reproduzir melhor um ambiente web.
-
 ### Estrutura
 
 ```text
