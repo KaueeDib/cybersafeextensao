@@ -78,7 +78,7 @@ CyberSafe_Modulo_Integrado_V1/
 
 ### Limitações desta versão
 
-Esta é uma V1 acadêmica de front-end. A seção "Precisa de ajuda?" lista canais oficiais (Disque 100, CVV 188, Helpline e Central de Denúncias da SaferNet, Conselho Tutelar, 190), conferidos em 02/10/2026; o grupo deve revalidá-los antes da publicação final. Não há processamento real de denúncias, autenticação, banco de dados, chatbot, painel administrativo ou coleta de dados pessoais. Pendências conhecidas de acessibilidade: contraste de texto branco sobre coral escuro (3,49:1) e de turquesa escuro sobre branco (3,95:1), abaixo de 4,5:1.
+Esta é uma V1 acadêmica de front-end. A seção "Precisa de ajuda?" lista canais oficiais (Disque 100, CVV 188, Helpline e Central de Denúncias da SaferNet, Conselho Tutelar, 190), conferidos em 02/10/2026. Não há processamento real de denúncias, autenticação, banco de dados, chatbot, painel administrativo ou coleta de dados pessoais. Pendências conhecidas de acessibilidade: contraste de texto branco sobre coral escuro (3,49:1) e de turquesa escuro sobre branco (3,95:1), abaixo de 4,5:1.
 
 ### Equipe — Grupo 12
 
